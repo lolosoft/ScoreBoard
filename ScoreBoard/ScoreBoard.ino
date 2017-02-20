@@ -4,6 +4,9 @@
  Author:	stoliarov.am2
 */
 
+#include "ScoreBoard.h"
+
+
 void setup() {
 	Serial.begin(9600);
 }
